@@ -4,7 +4,7 @@ Projeto de RAG (Retrieval-Augmented Generation) aplicado a e-commerce para anál
 
 ---
 
-## 📁 Estrutura de Pastas
+##  Estrutura de Pastas
 
 ```text
 .
@@ -25,7 +25,7 @@ Projeto de RAG (Retrieval-Augmented Generation) aplicado a e-commerce para anál
 
 ---
 
-## 🚀 Como Começar
+##  Como Começar
 
 ### 1. Clonar o repositório
 ```bash
