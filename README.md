@@ -2,6 +2,7 @@
 
 Projeto de RAG (Retrieval-Augmented Generation) aplicado a e-commerce para análise de Voice of Customer (VOC), recomendações e suporte.
 
+
 ---
 
 ##  Estrutura de Pastas
